@@ -5,4 +5,6 @@ usernames of the registered users. At the top-right of the screen, in the overfl
 For the backend I used Parse Server which is an open source Backend-as-a-Service(BaaS) framework initially developed by Facebook and an AWS EC2 instance. 
 
 # Demo  
-![](https://i.imgur.com/KyWYsH0.gif)
+![](https://i.imgur.com/KyWYsH0.gif)  
+  
+![](https://i.imgur.com/V1s4jXX.gif)
